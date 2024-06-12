@@ -1,1 +1,3 @@
 jxxghp/MoviePilot
+advplyr/audiobookshelf
+iyuucn/iyuuplus
